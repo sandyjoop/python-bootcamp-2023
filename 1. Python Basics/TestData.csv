@@ -1,7 +1,6 @@
-ID,Name
-1,Adam
-2,Betty
-3,Cubert
-4,Dianna
-5,Englebert
-6,Fiona
+Name,Age,City
+John,28,Sydney
+Lucy,22,Melbourne
+Mike,32,Brisbane
+Linda,45,Perth
+Oscar,35,Canberra
